@@ -1,0 +1,11 @@
+{
+	"name": "Simple Slider",
+	"description": "A simple image slider for the tops of pages, showing titles, descriptions and links.",
+	"version": "1.1",
+	"date": "2017-05-10",
+	"author": "Jackson Siro",
+	"author_uri": "https://github.com/jacksiro/",
+	"license": "GPLv2",
+	"min_q2a": "1.6",
+	"load_order": "after_db_init"
+}

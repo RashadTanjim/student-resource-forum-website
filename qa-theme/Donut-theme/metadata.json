@@ -1,0 +1,10 @@
+{
+	"name": "Donut",
+	"description": "Learning Website for Resource Metarials",
+	"version": "2.0.1",
+	"date": "2018-12-01",
+	"author": "Student Resource Forum Team",
+	"author_uri": "http://www.arnobtanjim.github.io/",
+	"license": "GPLv2",
+	"min_q2a": "1.8"
+}

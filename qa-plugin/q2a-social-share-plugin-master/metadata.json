@@ -1,0 +1,12 @@
+{
+	"name": "Q2A Social Share Plugin using AddThis",
+	"description": "This plugin enablesstudentrf users to show popup message and encourage users to share their question through addThis.com's social sharing inline tool.",
+	"uri": "https://github.com/PublicityPort/q2a-social-share-plugin",
+	"version": "1.0",
+	"date": "2017-09-23",
+	"author": "Publicity Port",
+	"author_uri": "https://publicityport.com",
+	"license": "GPLv3",
+	"update_uri": "https://raw.githubusercontent.com/PublicityPort/q2a-social-share-plugin/master/metadata.json",
+	"min_q2a": "1.7.4"
+}
